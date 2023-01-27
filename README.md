@@ -139,8 +139,7 @@ Publish the website in the given URL.
 
 </html>
 ## OUTPUT:
-![calculator](https://user-images.githubusercontent.com/118680361/215001683-17560453-cfbe-4c67-bb75-c0c13d34c1bd.png)
-
+C:\Users\SEC\Pictures\Screenshots\calculator.png
 
 
 ## Result:
