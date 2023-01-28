@@ -138,9 +138,10 @@ Publish the website in the given URL.
 </body>
 
 </html>
-## OUTPUT:
-![calculator](https://user-images.githubusercontent.com/118680361/215243118-e7e5d8af-0f5b-4cf7-9a4e-0f52e0b795b6.png)
 
+# OUTPUT:
+
+![calculator](https://user-images.githubusercontent.com/118680361/215243167-a1aac52b-8ad1-45c4-bb75-eb75dfc01fb1.png)
 
 
 ## Result:
